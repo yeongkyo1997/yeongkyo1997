@@ -1,10 +1,5 @@
-- 👋 Hi, I’m yeong
-- 👀 I’m interested in coding contest.
-- 🌱 I’m currently learning Android programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yeongkyo1997/yeongkyo1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://velog.io/@본인벨로그아이디">
+    <img 
+        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Vector Logo Zone)&link=https://velog.io/@yeongkyo1997"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
