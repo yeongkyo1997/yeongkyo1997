@@ -51,3 +51,5 @@
 <img alt= "icon" wide="60" height="60" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-570w.png">
 <img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/github-icon.svg">
 </p>  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongkyo1997)](https://solved.ac/yeongkyo1997/)
