@@ -55,3 +55,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yeongkyo1997&show_icons=true&count_private=true&theme=swift" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongkyo1997&layout=compact&hide_border=true&theme=swift" height="150">
 </div>
+
+[![코드트리|실력진단-yeongkyo1997](https://banner.codetree.ai/v1/banner/yeongkyo1997)](https://www.codetree.ai/profiles/yeongkyo1997)
