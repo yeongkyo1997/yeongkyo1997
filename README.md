@@ -56,4 +56,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongkyo1997&layout=compact&hide_border=true&theme=swift" height="150">
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjava1997)](https://solved.ac/yeongjava1997/)
+
 [![코드트리|실력진단-yeongkyo1997](https://banner.codetree.ai/v1/banner/yeongkyo1997)](https://www.codetree.ai/profiles/yeongkyo1997)
